@@ -1,0 +1,10 @@
+Drink Name: Strawberry Matcha Latte
+Ingredients:
+- Strawberry puree
+- Matcha
+- Milk
+- Tapioca pearls
+Steps:
+1. Add puree
+2. Add ice & milk
+3. Pour matcha on top

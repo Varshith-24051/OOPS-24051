@@ -1,0 +1,3 @@
+Today I learned how to write to files using Java.
+Had a good day 
+-varshith
