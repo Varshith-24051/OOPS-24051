@@ -1,0 +1,10 @@
+import flipkart.Product;
+import flipkart.customer.CustomerOrder;
+
+public class MainApp {
+    public static void main(String[] args) {
+        Product product = new Product("Smartphone", 25000.00);
+        CustomerOrder order = new CustomerOrder("John Doe");
+        order.placeOrder(product);
+    }
+}
